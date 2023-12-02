@@ -1,5 +1,5 @@
 ---
-title: "The Roadmap of Big Data Business Cloud Migration @ Sohu"
+title: "The Roadmap of Big Data Business Cloud Migration at Sohu"
 author: Xinjie (Edward) HU
 date: 2023-06-30
 category: [Notes]
