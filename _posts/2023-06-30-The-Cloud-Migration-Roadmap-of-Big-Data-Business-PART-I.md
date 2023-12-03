@@ -1,5 +1,5 @@
 ---
-title: "The Cloud Migration Roadmap of Big Data Business PART I - Business Overview"
+title: "The Cloud Migration Roadmap of Big Data Business PART I"
 author: Xinjie (Edward) HU
 date: 2023-06-30
 category: [Notes]
