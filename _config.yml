@@ -73,10 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
-
-# boolean type, the global switch for TOC in posts.
-toc: true
+avatar: 'assets/img/avatar.jpg
 
 comments:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
