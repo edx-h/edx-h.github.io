@@ -3,7 +3,7 @@ title: "CS Master Application Document Compilation"
 author: Edward
 date: 2023-12-04
 category: [Application Materials]
-tags: [Application Materials]
+tags: [CS Thesis Master Application]
 ---
 
 ## Basics:
