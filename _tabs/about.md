@@ -8,7 +8,7 @@ order: 4
 
 I'm currently serving as a data engineer and SDE @ Sohu, Beijing (<u>NASDAQ: SOHU</u>). 
 
-<u>Here are something unique about me:</u>
+#### Here are something unique about me:
 
 🗺 Love reading atlas
 : This should be a niche hobby;
@@ -80,6 +80,7 @@ I'm currently serving as a data engineer and SDE @ Sohu, Beijing (<u>NASDAQ: SOH
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
 </html>
+-----
+#### The following map shows where does my visitor come from. 
 
-The following map shows where does my webpage visitors come from. 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hjKAZCEZJOTt5-yCKfFaY8wETEbNHhiMGp0hthtxxFQ"></script>
