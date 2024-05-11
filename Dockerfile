@@ -27,6 +27,7 @@ RUN mkdir /srv/jekyll
 
 ADD Gemfile.lock /srv/jekyll
 ADD Gemfile /srv/jekyll
+ADD feed.xml /srv/jekyll
 
 WORKDIR /srv/jekyll
 

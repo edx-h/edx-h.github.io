@@ -10,8 +10,9 @@ module ExternalPosts
     def generate(site)
       if site.config['external_sources'] != nil
         site.config['external_sources'].each do |src|
-          p "Fetching external posts from #{src['name']}:"
-          xml = HTTParty.get(src['rss_url']).body
+          p Dir.pwd
+          xml = File.read("feed.xml")
+          #xml = HTTParty.get(src['rss_url']).body
           return if xml.nil?
           feed = Feedjira.parse(xml)
           feed.entries.each do |e|
