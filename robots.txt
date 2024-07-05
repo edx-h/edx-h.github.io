@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xinjie-h.github.io/sitemap.xml
+Sitemap: https://edx-h.github.io/sitemap.xml
