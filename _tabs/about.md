@@ -8,19 +8,19 @@ order: 4
 
 📄 Here is my [**resume**](/assets/files/resume.pdf) if you would like to know more about me.
 
-#### Now
+### Now
 
 I am currently a 3rd-year CS PhD candidate at Simon Fraser University, Canada.
 
 Actively looking for internships and collaborations. Please see my research interests below.
 
-#### Past
+### Past
 
 I received my bachelor's degree from the Southern University of Science and Technology (SUSTech, 南方科技大学), China.
 
 I worked as a product manager and a data engineer at Sohu (搜狐), China for three years. I designed and built the engine and data-governance system for the advertising business.
 
-#### Research Interest
+### Research Interest
 **Next-generation materialized view (MV) service with LLM:**
 
 Step 1: Before applying LLM, I really want to figure out the performance of existing MV service. Our work **[VLDB 2026]** shows that MV-driven query rewriting and acceleration is far from being solved, as it is really a matter of "pipeline" (view enumeration, view selection, view-based query rewriting) while previous literatures only carried out single stage evaluation.
@@ -31,13 +31,13 @@ Step 2: We have already seen the great potential of using LLM on this task. I am
 
 Extensive AI4DB tasks require using GPU: Learned optimizers, LLM-powered UDFs, semantic queries etc., These tasks vary a lot on latency sensitivity, parametre size. Finding out an optimal solution to orchestrate them is my focus.
 
-#### Publications:
+### Publications:
 
 **[VLDB 2026]:** <a href="https://www.vldb.org/pvldb/vol19/p3772-miao.pdf">Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting</a> (**Xinjie Hu**, Zhengjie Miao)
 - The Experiment, Analysis & Benchmark (EA&B) track.
 - [poster for quick introduction](/assets/files/poster.pdf)
 
-#### Here are something unique about me:
+### Here are something unique about me:
 
 🗺 Love reading atlas
 : This should be a niche hobby;
