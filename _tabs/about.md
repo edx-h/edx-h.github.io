@@ -6,22 +6,36 @@ order: 4
 
 ### Hello Folks! 😁
 
-<!-- TODO: upload your resume PDF to /assets/files/resume.pdf (or change the link below) -->
-📄 Here is my [**resume (PDF)**](/assets/files/resume.pdf) if you would like to know more about me.
+📄 Here is my [**resume**](/assets/files/resume.pdf) if you would like to know more about me.
 
 #### Now
 
-I'm currently serving as a data engineer and SDE @ Sohu, Beijing (<u>NASDAQ: SOHU</u>).
+I am currently a 3rd-year CS PhD candidate at Simon Fraser University, Canada.
+
+Actively looking for internships and collaborations. Please see my research interests below.
 
 #### Past
 
-<!-- TODO: the "Past" content is not available on the source page yet — fill in your past experience here -->
-🚧 To be updated...
+I received my bachelor's degree from the Southern University of Science and Technology (SUSTech, 南方科技大学), China.
+
+I worked as a product manager and a data engineer at Sohu (搜狐), China for three years. I designed and built the engine and data-governance system for the advertising business.
 
 #### Research Interest
+**Next-generation materialized view (MV) service with LLM:**
 
-💾 Database
-: No need to say... I am currently applying for CS research program with database specialization at this moment.
+Step 1: Before applying LLM, I really want to figure out the performance of existing MV service. Our work [VLDB 2026] shows that MV-driven query rewriting and acceleration is far from being solved, as it is really a matter of "pipeline" (view enumeration, view selection, view-based query rewriting) while previous literatures only carried out single stage evaluation.
+
+Step 2: We have already seen the great potential of using LLM on this task. I am actively incorporating LLM as a semantic reasoner to view enumeration and view-based query rewriting.
+
+**AI4DB tasks scheduling on GPU:**
+
+Extensive AI4DB tasks require using GPU: Learned optimizers, LLM-powered UDFs, semantic queries etc., These tasks vary a lot on latency sensitivity, parametre size. Finding out an optimal solution to orchestrate them is my focus.
+
+#### Publications:
+
+[VLDB 2026]: [Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting](https://www.vldb.org/pvldb/vol19/p3772-miao.pdf) (**Xinjie Hu**, Zhengjie Miao) 
+- The Experiment, Analysis & Benchmark (EA&B) track.
+- [poster for quick introduction](/assets/files/poster.pdf)
 
 #### Here are something unique about me:
 
@@ -30,11 +44,7 @@ I'm currently serving as a data engineer and SDE @ Sohu, Beijing (<u>NASDAQ: SOH
 
 
 🚲 Love cycling
-: Frankly, I really DON'T compete the speed with others, since cycling for me is purely a method to slow down, get relaxed and enjoy myself... That said, the longest distance record I keep till now is finished 32 km within 90 minutes (~21.3 km/h).
-
-
-💻 Love database
-: No need to say... I am currently applying for CS research program with database specialization at this moment.
+: Frankly, I really DON'T compete the speed with others, since cycling for me is purely a method to slow down, get relaxed and enjoy myself...
 
 
 ✈ Love travelling

@@ -1,13 +1,13 @@
 ---
 title: "Accelerating Dictionary Encoding Based Compression on GPU"
 author: Edward
-date: 2026-09-05
-category: [Course Projects]
+date: 2025-08-17
+category: [Research]
 tags: [GPU, CUDA, Data Compression, Dictionary Encoding, Profiling]
 ---
 
 # Introduction
-This post is a short introduction to my course project in CMPT 984 (a graduate course on GPU) at Simon Fraser University: **accelerating a dictionary encoding based compression algorithm with CUDA**, together with an ablation study and kernel-level profiling. The full details can be found in the [project report (PDF)](/assets/files/gpu_compression_report.pdf) and the [presentation slides (PDF)](/assets/files/gpu_compression_slides.pdf).
+This post is a short introduction to my course project in CMPT 984 (a graduate course on GPU) at Simon Fraser University: **accelerating a dictionary encoding based compression algorithm with CUDA**, together with an ablation study and kernel-level profiling. The full details can be found in the [project report](/assets/files/gpu_compression_report.pdf) and the [presentation slides](/assets/files/gpu_compression_slides.pdf).
 
 **Why GPU + compression?** GPU enjoys massive parallelism (SIMT architecture) and an order-of-magnitude higher memory bandwidth than CPU, while the PCIe bus between host and device remains a narrow pipe. Data compression fits this picture nicely:
 - many compression algorithms can be decomposed into independent per-chunk work, which is exactly what GPU is good at;
