@@ -23,7 +23,7 @@ I worked as a product manager and a data engineer at Sohu (搜狐), China for th
 #### Research Interest
 **Next-generation materialized view (MV) service with LLM:**
 
-Step 1: Before applying LLM, I really want to figure out the performance of existing MV service. Our work [VLDB 2026] shows that MV-driven query rewriting and acceleration is far from being solved, as it is really a matter of "pipeline" (view enumeration, view selection, view-based query rewriting) while previous literatures only carried out single stage evaluation.
+Step 1: Before applying LLM, I really want to figure out the performance of existing MV service. Our work **[VLDB 2026]** shows that MV-driven query rewriting and acceleration is far from being solved, as it is really a matter of "pipeline" (view enumeration, view selection, view-based query rewriting) while previous literatures only carried out single stage evaluation.
 
 Step 2: We have already seen the great potential of using LLM on this task. I am actively incorporating LLM as a semantic reasoner to view enumeration and view-based query rewriting.
 
@@ -33,7 +33,7 @@ Extensive AI4DB tasks require using GPU: Learned optimizers, LLM-powered UDFs, s
 
 #### Publications:
 
-[VLDB 2026]: [Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting](https://www.vldb.org/pvldb/vol19/p3772-miao.pdf) (**Xinjie Hu**, Zhengjie Miao) 
+**[VLDB 2026]:** <a href="https://www.vldb.org/pvldb/vol19/p3772-miao.pdf">Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting</a> (**Xinjie Hu**, Zhengjie Miao)
 - The Experiment, Analysis & Benchmark (EA&B) track.
 - [poster for quick introduction](/assets/files/poster.pdf)
 
