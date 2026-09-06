@@ -4,9 +4,24 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Hello Folks! 😁 
+### Hello Folks! 😁
 
-I'm currently serving as a data engineer and SDE @ Sohu, Beijing (<u>NASDAQ: SOHU</u>). 
+<!-- TODO: upload your resume PDF to /assets/files/resume.pdf (or change the link below) -->
+📄 Here is my [**resume (PDF)**](/assets/files/resume.pdf) if you would like to know more about me.
+
+#### Now
+
+I'm currently serving as a data engineer and SDE @ Sohu, Beijing (<u>NASDAQ: SOHU</u>).
+
+#### Past
+
+<!-- TODO: the "Past" content is not available on the source page yet — fill in your past experience here -->
+🚧 To be updated...
+
+#### Research Interest
+
+💾 Database
+: No need to say... I am currently applying for CS research program with database specialization at this moment.
 
 #### Here are something unique about me:
 
@@ -23,7 +38,7 @@ I'm currently serving as a data engineer and SDE @ Sohu, Beijing (<u>NASDAQ: SOH
 
 
 ✈ Love travelling
-: Here are the fantastic pictures shot in different travelling destinations. 
+: Here are the fantastic pictures shot in different travelling destinations.
 
 <html lang="en">
   <head>
@@ -80,7 +95,8 @@ I'm currently serving as a data engineer and SDE @ Sohu, Beijing (<u>NASDAQ: SOH
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
 </html>
+
 -----
-#### The following map shows where does my visitor come from. 
+#### The following map shows where does my visitor come from.
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hjKAZCEZJOTt5-yCKfFaY8wETEbNHhiMGp0hthtxxFQ"></script>
